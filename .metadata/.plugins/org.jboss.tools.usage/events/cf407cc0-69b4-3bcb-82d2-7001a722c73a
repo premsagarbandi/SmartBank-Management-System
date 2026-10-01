@@ -1,0 +1,11 @@
+#Thu Oct 01 14:07:25 IST 2026
+a=finishWizard
+c=0
+cl=org.eclipse.oomph.setup.ui.wizards.SetupWizard$Updater$2
+cmp=usage
+ct=jbt
+d=1790843845074
+l=Wizard class name
+s=4
+v=2.3.100
+vl=How many times the 'Finish' button pressed during the day
